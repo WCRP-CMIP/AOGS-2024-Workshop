@@ -9,18 +9,25 @@ The notebooks cover:
 - producing climate stripes from the accessed cmip6 dataset.
 
 # Requirements
-Install the virtual environment **cmip6env** to run the notebooks using Python 3.
-
+Clone this repository into your local directory.
+```
+git clone https://github.com/WCRP-CMIP/AOGS-2024-Workshop.git
+cd AOGS-2024-Workshop
+```
+Install and activate the virtual environment **cmip6env** to run the notebooks using Python 3.
 ```
 python3 -m venv cmip6env
 source cmip6env/bin/activate
+```
+Install the requirements.txt file 
+```
 python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
 # Running Notebooks
 ```
-cd AOGS-2024-Workshop/notebooks
+cd notebooks
 jupyter lab <notebook>
 ```
 
