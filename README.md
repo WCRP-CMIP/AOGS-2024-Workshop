@@ -11,7 +11,7 @@ The notebooks cover:
 # Requirements
 Install the virtual environment **cmip6env** to run the notebooks using Python 3.
 
-```python
+```
 python3 -m venv cmip6env
 source cmip6env/bin/activate
 python3 -m pip install --upgrade pip
@@ -19,7 +19,8 @@ pip install -r requirements.txt
 ```
 
 # Running Notebooks
-```python
+```
+cd AOGS-2024-Workshop/notebooks
 jupyter lab <notebook>
 ```
 
