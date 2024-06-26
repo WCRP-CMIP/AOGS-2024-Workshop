@@ -39,16 +39,16 @@ jupyter lab <notebook>
 # Workshop conveners
 A huge thank you to the Fresh Eyes on CMIP members below who have organised and prepared the materials for this workshop.
 
-Douglas Rao, NC State University
-Yiwen Li, China University of Geosciences
-Nebiyu Waliyi Tekesa, Arba Minch University
-Evgenia Galytska, University of Bremen
-Abhnil Prasad, UNSW
-Froila Palmeiro, CMCC/CCCma
-Anja Katzenberger, PIK Potsdam
-Gen Tolhurst, Australian Bureau of Meteorology
-Cheikh Modou Noreyni Fall, Université Cheikh Anta Diop de Dakar
-Beth Dingley, CMIP International Project Office
+1. Douglas Rao, NC State University
+2. Yiwen Li, China University of Geosciences
+3. Nebiyu Waliyi Tekesa, Arba Minch University
+4. Evgenia Galytska, University of Bremen
+5. Abhnil Prasad, UNSW
+6. Froila Palmeiro, CMCC/CCCma
+7. Anja Katzenberger, PIK Potsdam
+8. Gen Tolhurst, Australian Bureau of Meteorology
+9. Cheikh Modou Noreyni Fall, Université Cheikh Anta Diop de Dakar
+10. Beth Dingley, CMIP International Project Office
 
 The workshop will be presented in-person by Douglas, Yiwen, and Nebiyu.
 
