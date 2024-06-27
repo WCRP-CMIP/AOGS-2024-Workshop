@@ -1,5 +1,5 @@
 # AOGS-2024-Workshop
-This repository comprises notebooks for the AOGS2024 Workshop related to the CMIP6 dataset.
+This repository comprises notebooks for the AOGS2024 Workshop related to the CMIP6 dataset. The slides for this workshop can be found [here](https://zenodo.org/records/12558016)
 
 # Getting Started
 The notebooks cover:
